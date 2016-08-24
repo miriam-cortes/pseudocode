@@ -7,6 +7,11 @@
   #A string of a sentence we are saying to
     #examples: "Hi Grandma!", "BYE", "HAVE YOU SEEN THE NEWS?"
 
+#OUTPUT:
+  #To exit the loop if given string: "BYE"
+  #The string: "HUH!? SPEAK UP, SONNY!" if given a random string not in all upcase
+  #The string: "NO, NOT SINCE 1938!" if given a random string in all uppercase
+
 
 ###########################
 ### PSEUDOCODE EXAMPLE:  ##
